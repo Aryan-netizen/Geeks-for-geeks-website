@@ -85,31 +85,6 @@ function App() {
       <div className="h-56 bg-[rgba(55,65,81,1)]">
 
       </div>
-      <div>
-      <footer class="bg-gray-900 text-white py-10 shadow-lg">
-        <div class="container mx-auto text-center">
-            <div class="mb-5 text-lg">
-                <a href="index.html" class="mx-5 hover:text-orange-400 hover:translate-y-1 transition-all duration-300">Home</a>
-                <a href="about.html" class="mx-5 hover:text-orange-400 hover:translate-y-1 transition-all duration-300">About</a>
-                <a href="courses.html" class="mx-5 hover:text-orange-400 hover:translate-y-1 transition-all duration-300">Courses</a>
-                <a href="contact.html" class="mx-5 hover:text-orange-400 hover:translate-y-1 transition-all duration-300">Contact</a>
-            </div>
-            <div class="mb-5">
-                <a href="https://www.facebook.com" target="_blank" class="mx-4 inline-block">
-                    <img src="https://th.bing.com/th/id/OIP.WE109lmuCjsw8asJparTPgHaHa?rs=1&pid=ImgDetMain " alt="Facebook" class="w-7 transition-transform duration-300 transform hover:scale-110 hover:brightness-110"/>
-                </a>
-                <a href="https://www.twitter.com" target="_blank" class="mx-4 inline-block">
-                    <img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="Twitter" class="w-7 transition-transform duration-300 transform hover:scale-110 hover:brightness-110"/>
-                </a>
-                <a href="https://www.instagram.com" target="_blank" class="mx-4 inline-block">
-                    <img src="https://th.bing.com/th/id/OIP.n9osEmzXnDugdLkt9W9awwHaHa?rs=1&pid=ImgDetMain" alt="Instagram" class="w-8 transition-transform duration-300 transform hover:scale-110 hover:brightness-110"/>
-                </a>
-            </div>
-            <p class="text-sm text-gray-400 mt-5">&copy; 2025 Eduverse. All rights reserved.</p>
-        </div>
-    </footer>
-
-      </div>
     </div>
   );
 }
